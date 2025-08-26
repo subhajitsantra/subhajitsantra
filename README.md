@@ -12,7 +12,7 @@
 ### 🎓 **About Me**
 - 🏫 **College:** ITAHAR GOVT POLYTECH (CST Dept.)  
 - ❤️ **Hobby:** Tinkering with computers & exploring new tech  
-- 🧠 **Fav Subject:** CSO (Computer Systems & Organization)  
+- 🧠 **Fav Subject:** C.N (computer networks)  
 - 🔥 **Passion:** Coding, Open Source, and Problem Solving  
 
 ---
